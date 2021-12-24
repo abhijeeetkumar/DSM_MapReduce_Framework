@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+option java_package = "ex.grpc";
+
+package dataproto;
+
+// Defines the service
+service DistMutex {
+    // Function invoked to send the request
+    rpc recv (MessageRequest) returns (MessageReply) {}
+}
+
+service DSM {
+    rpc dsm_recv (DSMRequest)returns (DSMReply) {}
+    rpc dsm_ninvalid_recv (DSMRequest) returns (DSMReply) {} 
+    rpc dsm_data_recv (DSMRequest) returns (DSMReply) {}
+    rpc dt_recv (DTRequest) returns (DTReply) {}
+    rpc dsm_ack_recv (DSMRequest) returns (DSMReply) {}
+}
+
+// The distMutex request message containing seqId, msgType, nodeId, lockNo
+message MessageRequest {
+    int32 seqId = 1;
+    int32 msgType = 2; 
+    string nodeId = 3;
+    int32 lockNo = 4;
+}
+
+// The distMutex response message containing response
+message MessageReply {
+    int32 result = 1;
+}
+
+message DSMRequest{
+    int32 reqType = 1;
+    int64 address = 2;
+    string nodeid = 3;
+}
+
+message DSMReply{
+    repeated bytes data = 1;
+}
+
+message DTRequest{
+    int64 address = 1;
+    int32 size = 2;
+    string nodeid = 3;
+}
+
+message DTReply{
+    int32 state = 1;
+}

@@ -1,0 +1,87 @@
+4
+Running on :e5-cse-135-02.cse.psu.edu
+server init thread...listening at 130.203.16.21:46000
+created channel for address 130.203.16.20:46000
+created channel for address 130.203.16.49:46000
+created channel for address 130.203.16.48:46000
+Directory node: e5-cse-135-29.cse.psu.edu 130.203.16.48:46000
+send_DTentry() e5-cse-135-02.cse.psu.edu is grpc calling directory: e5-cse-135-29.cse.psu.edu 7e1000
+Running on :e5-cse-135-02.cse.psu.edu
+server init thread...listening
+created channel for address e5-cse-135-01.cse.psu.edu
+created channel for address e5-cse-135-30.cse.psu.edu
+created channel for address e5-cse-135-29.cse.psu.edu
+lock 0 created
+send_DTentry() e5-cse-135-02.cse.psu.edu is grpc calling directory: e5-cse-135-29.cse.psu.edu 7e3000
+lock 1 created
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-01.cse.psu.edu
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-30.cse.psu.edu
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-29.cse.psu.edu
+Waiting for replies from everyone
+send() e5-cse-135-02.cse.psu.edu is grpc calling e5-cse-135-29.cse.psu.edu 7e3000
+get_data() e5-cse-135-02.cse.psu.eduis grpc calling e5-cse-135-29.cse.psu.edu 7e3000
+send_ack() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e3000
+send() e5-cse-135-02.cse.psu.edu is grpc calling e5-cse-135-29.cse.psu.edu 7e3000
+get_data() e5-cse-135-02.cse.psu.eduis grpc calling e5-cse-135-29.cse.psu.edu 7e3000
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e3000
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-30.cse.psu.edu 7e3000
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e3000
+send_ack() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e3000
+sending deferred replies
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-29.cse.psu.edu
+sending deferred replies
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-01.cse.psu.edu
+sending deferred replies
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-30.cse.psu.edu
+sending data to e5-cse-135-29.cse.psu.edu
+send() e5-cse-135-02.cse.psu.edu is grpc calling e5-cse-135-29.cse.psu.edu 7e3028
+get_data() e5-cse-135-02.cse.psu.eduis grpc calling e5-cse-135-29.cse.psu.edu 7e3028
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e3028
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-30.cse.psu.edu 7e3028
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e3028
+send_ack() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e3028
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-01.cse.psu.edu
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-30.cse.psu.edu
+sending data to e5-cse-135-30.cse.psu.edu
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-29.cse.psu.edu
+Waiting for replies from everyone
+send() e5-cse-135-02.cse.psu.edu is grpc calling e5-cse-135-29.cse.psu.edu 7e1000
+get_data() e5-cse-135-02.cse.psu.eduis grpc calling e5-cse-135-29.cse.psu.edu 7e1000
+send_ack() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e1000
+send() e5-cse-135-02.cse.psu.edu is grpc calling e5-cse-135-29.cse.psu.edu 7e1000
+get_data() e5-cse-135-02.cse.psu.eduis grpc calling e5-cse-135-29.cse.psu.edu 7e1000
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e1000
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-30.cse.psu.edu 7e1000
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e1000
+send_ack() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e1000
+sending deferred replies
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-29.cse.psu.edu
+sending data to e5-cse-135-29.cse.psu.edu
+send() e5-cse-135-02.cse.psu.edu is grpc calling e5-cse-135-29.cse.psu.edu 7e1000
+get_data() e5-cse-135-02.cse.psu.eduis grpc calling e5-cse-135-29.cse.psu.edu 7e1000
+send_ack() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e1000
+send() e5-cse-135-02.cse.psu.edu is grpc calling e5-cse-135-29.cse.psu.edu 7e1000
+get_data() e5-cse-135-02.cse.psu.eduis grpc calling e5-cse-135-29.cse.psu.edu 7e1000
+send_ack() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e1000
+send() e5-cse-135-02.cse.psu.edu is grpc calling e5-cse-135-29.cse.psu.edu 7e1000
+get_data() e5-cse-135-02.cse.psu.eduis grpc calling e5-cse-135-29.cse.psu.edu 7e1000
+send_ack() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e1000
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-01.cse.psu.edu
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-30.cse.psu.edu
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-29.cse.psu.edu
+Waiting for replies from everyone
+send() e5-cse-135-02.cse.psu.edu is grpc calling e5-cse-135-29.cse.psu.edu 7e3004
+get_data() e5-cse-135-02.cse.psu.eduis grpc calling e5-cse-135-01.cse.psu.edu 7e3004
+send_ack() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e3004
+send() e5-cse-135-02.cse.psu.edu is grpc calling e5-cse-135-29.cse.psu.edu 7e3004
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e3004
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-30.cse.psu.edu 7e3004
+send_n_invalid() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e3004
+send_ack() e5-cse-135-02.cse.psu.eduis grpc callinge5-cse-135-29.cse.psu.edu 7e3004
+sending deferred replies
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-29.cse.psu.edu
+sending deferred replies
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-30.cse.psu.edu
+sending data to e5-cse-135-29.cse.psu.edu
+send() e5-cse-135-02.cse.psu.edu is calling grpc at e5-cse-135-01.cse.psu.edu
+e: Connect Failed

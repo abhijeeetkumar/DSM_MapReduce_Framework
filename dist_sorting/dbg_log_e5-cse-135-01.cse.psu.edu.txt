@@ -1,0 +1,393 @@
+Running on :e5-cse-135-01.cse.psu.edu
+server init thread...listening at 130.203.16.20:46000
+created channel for address 130.203.16.27:46000
+Directory node: e5-cse-135-01.cse.psu.edu 130.203.16.20:46000
+send_DTentry() e5-cse-135-01.cse.psu.edu is grpc calling directory: e5-cse-135-01.cse.psu.edu 7de000
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7de
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7df
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7e0
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7e1
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7e2
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7e3
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7e4
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7e5
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7e6
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7e7
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7e8
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7e9
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7ea
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7eb
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7ec
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7ed
+ setting DT entry to RW state
+dt_recv() for e5-cse-135-01.cse.psu.edu vp page: 7ee
+ setting DT entry to RW state
+Running on :e5-cse-135-01.cse.psu.edu
+server init thread...listening
+created channel for address e5-cse-135-08.cse.psu.edu
+lock 0 created
+send() e5-cse-135-01.cse.psu.edu is calling grpc at e5-cse-135-08.cse.psu.edu
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7de
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7df
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7e0
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7e1
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7e2
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7e3
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7e4
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7e5
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7e6
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7e7
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7e8
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7e9
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7ea
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7eb
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7ec
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7ed
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+dt_recv() for e5-cse-135-08.cse.psu.edu vp page: 7ee
+e5-cse-135-01.cse.psu.edu : Directory Table: no change in state
+ setting DT entry to Invalid state
+Waiting for replies from everyone
+send() e5-cse-135-01.cse.psu.edu is calling grpc at e5-cse-135-08.cse.psu.edu
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7ee
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+Waiting for replies from everyone
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7ee004
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7e6
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7ee
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+send_n_invalid() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-08.cse.psu.edu 7ee004
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7ee004
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7e6
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7e7
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7e7
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7e8
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7e8
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7e9
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7e9
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7ea
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7ea
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7eb
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7eb
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7ec
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7ec
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7ed
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7ed
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7ee
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+page unlocked
+dsm_recv() e5-cse-135-08.cse.psu.edu trying to lock page number 7ee
+page locked
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+sending data to e5-cse-135-08.cse.psu.edu
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7ee004
+page unlocked
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7ee
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-08.cse.psu.edu
+get_data() e5-cse-135-01.cse.psu.eduis grpc calling e5-cse-135-08.cse.psu.edu 7ee004
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7ee004
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7e6000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7e6
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-08.cse.psu.edu
+get_data() e5-cse-135-01.cse.psu.eduis grpc calling e5-cse-135-08.cse.psu.edu 7e6000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e6000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7e7000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7e7
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-08.cse.psu.edu
+get_data() e5-cse-135-01.cse.psu.eduis grpc calling e5-cse-135-08.cse.psu.edu 7e7000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e7000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7e8000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7e8
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-08.cse.psu.edu
+get_data() e5-cse-135-01.cse.psu.eduis grpc calling e5-cse-135-08.cse.psu.edu 7e8000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e8000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7e9000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7e9
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-08.cse.psu.edu
+get_data() e5-cse-135-01.cse.psu.eduis grpc calling e5-cse-135-08.cse.psu.edu 7e9000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e9000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7ea000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7ea
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-08.cse.psu.edu
+get_data() e5-cse-135-01.cse.psu.eduis grpc calling e5-cse-135-08.cse.psu.edu 7ea000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7ea000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7eb000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7eb
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-08.cse.psu.edu
+get_data() e5-cse-135-01.cse.psu.eduis grpc calling e5-cse-135-08.cse.psu.edu 7eb000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7eb000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7ec000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7ec
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-08.cse.psu.edu
+get_data() e5-cse-135-01.cse.psu.eduis grpc calling e5-cse-135-08.cse.psu.edu 7ec000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7ec000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7ed000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7ed
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table; changing state from I to RO
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RW to RO
+directory node is sending request to e5-cse-135-08.cse.psu.edu
+get_data() e5-cse-135-01.cse.psu.eduis grpc calling e5-cse-135-08.cse.psu.edu 7ed000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7ed000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7e6000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7e6
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+send_n_invalid() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-08.cse.psu.edu 7e6000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e6000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7e7000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7e7
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+send_n_invalid() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-08.cse.psu.edu 7e7000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e7000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7e8000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7e8
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+send_n_invalid() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-08.cse.psu.edu 7e8000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e8000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7e9000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7e9
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+send_n_invalid() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-08.cse.psu.edu 7e9000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7e9000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7ea000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7ea
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+send_n_invalid() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-08.cse.psu.edu 7ea000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7ea000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7eb000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7eb
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+send_n_invalid() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-08.cse.psu.edu 7eb000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7eb000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7ec000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7ec
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+send_n_invalid() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-08.cse.psu.edu 7ec000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7ec000
+page unlocked
+send() e5-cse-135-01.cse.psu.edu is grpc calling e5-cse-135-01.cse.psu.edu 7ed000
+dsm_recv() e5-cse-135-01.cse.psu.edu trying to lock page number 7ed
+page locked
+e5-cse-135-01.cse.psu.edu : Directory Table: changing state from RO to RW
+e5-cse-135-08.cse.psu.edu : Directory Table: changing state from RO to I
+directory node is sending request to e5-cse-135-01.cse.psu.edu
+send_n_invalid() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-08.cse.psu.edu 7ed000
+send_ack() e5-cse-135-01.cse.psu.eduis grpc callinge5-cse-135-01.cse.psu.edu 7ed000
+page unlocked
